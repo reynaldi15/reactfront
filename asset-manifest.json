@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reynaldi15/reactfront/static/css/main.12fccbaf.css",
+    "main.js": "/reynaldi15/reactfront/static/js/main.028956c3.js",
+    "static/js/787.dba5a918.chunk.js": "/reynaldi15/reactfront/static/js/787.dba5a918.chunk.js",
+    "static/media/scifi.jpg": "/reynaldi15/reactfront/static/media/scifi.d7e33e800ac02f489fd8.jpg",
+    "static/media/spiderman.jpg": "/reynaldi15/reactfront/static/media/spiderman.2d8e48db70fee2a9fbe9.jpg",
+    "static/media/main.jpg": "/reynaldi15/reactfront/static/media/main.4a912a242568343fea42.jpg",
+    "static/media/everything.jpg": "/reynaldi15/reactfront/static/media/everything.ed96eaa84be6674ac60c.jpg",
+    "static/media/avenger.jpg": "/reynaldi15/reactfront/static/media/avenger.e6f6d831ff7250a20695.jpg",
+    "static/media/robinhood.jpg": "/reynaldi15/reactfront/static/media/robinhood.a811f3623395b8d5c5fd.jpg",
+    "static/media/bathman.jpg": "/reynaldi15/reactfront/static/media/bathman.d63ba254a96468382e2b.jpg",
+    "static/media/lightyear.jpg": "/reynaldi15/reactfront/static/media/lightyear.881da96e35afae963ad1.jpg",
+    "static/media/joker.jpg": "/reynaldi15/reactfront/static/media/joker.4231e28eb1f27552d08f.jpg",
+    "static/media/morbius.jpg": "/reynaldi15/reactfront/static/media/morbius.c2de5c653057f3da7c51.jpg",
+    "static/media/antman.jpg": "/reynaldi15/reactfront/static/media/antman.b77f4ae26e0b3d82058c.jpg",
+    "static/media/infinite.jpg": "/reynaldi15/reactfront/static/media/infinite.6e1272e9a944932e5963.jpg",
+    "static/media/superman.jpg": "/reynaldi15/reactfront/static/media/superman.1f90bb661b43de78b7b8.jpg",
+    "static/media/dune.jpg": "/reynaldi15/reactfront/static/media/dune.bf1854be9390dd5f2921.jpg",
+    "index.html": "/reynaldi15/reactfront/index.html",
+    "main.12fccbaf.css.map": "/reynaldi15/reactfront/static/css/main.12fccbaf.css.map",
+    "main.028956c3.js.map": "/reynaldi15/reactfront/static/js/main.028956c3.js.map",
+    "787.dba5a918.chunk.js.map": "/reynaldi15/reactfront/static/js/787.dba5a918.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12fccbaf.css",
+    "static/js/main.028956c3.js"
+  ]
+}
